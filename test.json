@@ -2,6 +2,6 @@
   "test": "hello",
   "address": {
     "street": "123 Main St",
-    "city: "Toronto"    
+    "city": "Toronto"    
   }
 }
